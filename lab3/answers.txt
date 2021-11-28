@@ -1,0 +1,12 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Takes least time for sorted50000 text file.
+
+sort2 uses: Merge Sort
+
+How do you know?: For sorted50000 text file, it takes time more than sort1 and less than sort3 as we know from the omega notation.
+                  And also it takes least time for random50000 text file.
+
+sort3 uses: Selection Sort
+
+How do you know?: Slower than the other two sort methods for sorted50000 text file.
