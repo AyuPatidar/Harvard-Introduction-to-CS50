@@ -1,0 +1,4 @@
+id     |name   | phone_number   |passport_number|license_plate|receiver 60s call|receiver's Name|account_number|exit time
+
+514354 |Russell| (770) 555-1861 | 3592750733    | 322W7JE     | (725) 555-3243  |Philip         |26013199      |10:23
+686048 |Ernest | (367) 555-5533 | 5773159633    | 94KL13X     | (375) 555-8161  |Berthold       |49610011      |10:18
